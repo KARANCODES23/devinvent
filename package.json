@@ -1,1 +1,1 @@
-{"scripts":{"dev":"npx nodemon --exec \"npx ts-node\" ./src/index.ts","build":"tsc","start":"node dist/index.js"},"dependencies":{}}
+{"scripts":{"dev":"cd aero-inspect-pilot-view && npm run dev","build":"tsc","start":"node dist/index.js"},"dependencies":{}}
